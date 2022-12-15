@@ -1,0 +1,20 @@
+.register{
+    text-align: center;
+    
+}
+.register p{
+    color: rgb(227, 136, 0);
+}
+header{
+    background-color: rgb(255, 255, 255);
+}
+form{
+    border-style:groove;
+    
+    
+}
+button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}

@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    box-shadow: rgba(0,0,0, 0.15) 0px -2px 10px 0px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5em 2em;
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgba(90, 82, 165));
+}
+
+.brand{
+    font-size: 1.2em;
+    color: rgb(7, 11, 255);
+}
+.brand span{
+    font-weight: 900;
+    text-transform: uppercase;
+    color: rgb(10, 10, 10);
+}
+.links_list{
+    display: flex;
+    list-style: none;
+}
+.links_list li{
+    margin-right: 1em;
+}
+.links_list li a{
+    padding: .4em .6em;
+}
+.active{
+    background-color: hsl(0, 0%, 0%);
+    color: rgb(255, 255, 255);
+    
+}
