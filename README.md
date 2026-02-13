@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+Welcome to MineBlog
 
-This project was bootstrapped with [MineBlog](https://leafy-cendol-9f517e.netlify.app/).
+This project was developed using React and serves as the foundation of the MineBlog platform.
+Explore articles, insights, and updates through the blog below.
+
+👉[MineBlog](https://leafy-cendol-9f517e.netlify.app/).
 
